@@ -1,0 +1,187 @@
+	Modded Animations Hats
+Modded Pistol v4 > 11694545311	       (optional > 4504231783)
+Modded Studio Dummy > 4623059912	 (optional > 4504231783)
+Modded Star Glitcher > 4458601937, 4506945409, 4315489767, 4794315940
+Modded Moony Glitcher 7583370812, 7548993875
+
+	Hiso-Hub hats
+Mini Tonk: 12459592238
+Milk Man: 11600871713
+Solar Eclise: 4368724562
+
+	Shade-Hub-Reborn hats
+Ramis Banisher: 6775283114
+Star Glitcher: 4458601937, 4506945409, 4315489767, 4794315940
+Jetstream Sam (Red Samurai): 5870508493
+Butcher: 5555611932 
+Goner: 4506945409
+Goner (Free): 7548993875
+Neptunian: 12798859142 
+Motorcycle Hats: 11354413365
+Ban Hammer: 14464140694
+Studio Dummy: 5164293775
+Shackluster's Knife: 7170680556
+
+	real_Carl001's VOHMH
+the classicest old/new: 15222706412,18587610978,18615300474
+HackerMan Mod: 12402087358
+
+IDs of paid body accessories:
+-for arms and are in sets of 2 > 11159410305,11263254795 / 14255556501,14255554762 / 12344545199,12344591101 / 13839976999,13831200263
+-for legs and are in sets of 2 > 14768693948,14768701869 / 11159483910,12652786974 / 17401151565,17387616772
+-for torso 14255528083 / 13421786478 / 14768678294
+
+or anything else that covers ur torso. examples:
+14532301415,13423624885,11502853991,14053485259,13779879140,14443132226,17163407577,16297156693,17180496303,17171230401
+
+IDs of free body accessories:
+3033910400,3409612660,3438342658,3398308134,4324158403,3822880197,4154538250,3443038622,4819740796
+
+accessories for Immortality Lord:
+head: 17375337078 or 17270164442
+body: 17270178857,17270001635,17269952801,17269983359,17269998373
+wings: 17270231731,17270225913
+sword: 17326812233,17326800544
+
+ HackerMan Hub Info
+DevInfo Version > HaxeR
+patchma Version > v45
+Hub Version > v12
+Animations > 80+
+Makers of Hub > DeBug-X Team
+
+executors that have PermaDeath (updated 3/4/25)
+
+Atlantis > .gg/getatlantis | may be faked perma feel free to test yourself
+Ronix > no inv | may be faked perma feel free to test yourself
+synapse z > (is down)
+delta > https://deltaexploits.gg
+frostware > gg/getfrost
+nebula > gg/9Hm7p7hE 
+
+CREDITS :D
+    DeBug-x Team / HackerMan Team / 18 animations used
+> Redactedre     debug-x team | alt account | never use probably lol
+> toya           debug-x team | emotional support pet | is a cat
+> DeBug-Cookie   debug-x team | Tester | she does nothing other then that lmao
+> Exotic         debug-x team | Animator & Tester | not the name of main nor main alt but i just go by that and it has more hats on this account > 
+> DeBug-X        debug-x team | Coder | alt alt account what i use alot | i do a lot of coding on this account 
+> DeBug-Z        debug-x team | Coder & Tester | alt friend uses she helped a bit she added like 5 lines of code lmao
+    Emoter & so sigma kustom Team / 9 animations used 
+> Shavine        | Animator
+    Hiso Hub Team / 17 animations
+> Hiso           | Animator & Coder & Tester
+    Shade Hub ReBorn Team / 20 aimations used
+> Chip           | Animator & Coder
+> Maximilito     | Animator
+    real_Carl001's VOHMH Team / 3 animations used
+> real_Carl001   | Animator & Coder & Yester
+    Patchma Hub Team / for Patchma hub itself / 8 animations used
+> Fox            | Maker of the watered down version of MyWorld's place
+> MyWorld        | Animator & Coder & Tester | Creator of patchma hub
+> Emper          | Animator & Coder & Tester | Helper who continued patchma hub for a temp time 
+    Genesis Fe Team / for the ideas / 0 animations used
+> Mikayala       | Unknown | A Owner and maker of Genesis Fe
+> Rqz            | Unknown | A Owner and maker of Genesis Fe
+> Chip           | Animator & Coder | No longer works with and or for Genesis Fe
+=======================================================================================================================================
+			Update Title/Msg
+			  {UPDATE V12}
+		THE PATCHMA UPDATE / TEST UPDATE
+patchma hub got a update from v43 to v44 (now its v45 due to a bug in v44) and hackerman hub just updated to it have fun perma death is only working for a few executors
+there is a list of executors above in hackerman hub info
+
+something new "ban hammer test" is now no longer hidden + "the classics" is no longer hidden too + "hackerman" mod is no longer hidden
+we changed up a few small things to be more like genesis fe rigs so people dont need to worry about 
+the r15 hat arms in the same place as the legs for that rig
+and more i forgot or something :D
+
+we added some cool text to the code just so if you go looking around you know who's script you looking thro (is joke we dont care lol)
+=======================================================================================================================================
+	update logs
+  	  update v1
+> added Genesis fe noob rig legs and arms
+> added genesis fe rig for newer white arms and legs 
+> added emoter & so sigma kustom | both made by shavine
+? fixed small bugs with animations not loading when clicked
+^ changed the gui's colors
+< removed "the ult test" | reason i added it for testing its not needed no more
+   	update v2
+> added shade hub Reborn
+? fixed hub name and makers name not being the same colors
+^ changed how the the info is sent to your console
+    	Update v3
+> added Hiso Hub
+> added Destroy GUI button
+> added Rejoin button
+> added Reset button
+^ small changes to the notification
+	update v4
+> added more info in console
+> added DeBug-X MODS for modder versions of other animations mostly just item changes but yes
+> added Modded version of star glitcher from shade hub
+> added Modded version of moony glitcher from shade hub
+? fixed Hiso Hub version text being black rather then white like the rest
+	update v5
+> added 3 more modes to modded star glitcher from shade hub
+? fixed small problem not known for some reason
+< removed Test changing the text and a few other things to make it more easy with bringing the test version over to the main version (if you dont use the test version you wont care)
+^ chnaged a few background things i think i forgot
+	update v6
+> added 3 MORE modes to modded start glitcher from shade hub
+> added (https://www.roblox.com/catalog/4504231783/Elemental-Crystal-Golem-Shoulder-Rock) to studio dummy from shade hub in modded version
+> added Modded Pistol from shade hub
+    	update v7
+> added 2 MORE modes to modded start glitcher from shade hub
+> added "Dev Notes" to the warn msg
+> added "Dev Msgs" to the warn msg
+    	update v8
+> added hidden animation pack for myself and you if you find it
+! updated emoter to v3 and let v2.4 stay if you want to use it
+! updated and added a rig i forgot what rig
+    	update v9
+> added  a diff hidden animation pack
+> added "The Classic" animation pack/script it is in beta few things may change later on
+	update v10
+> added real_Carl001's version of HackerMan Hub/VOHMH
+> added korblox the ids for em are > 95569828063403/18400558926/18615300474
+> added me being sleepy
+	update v11
+> added new Noob rig
+> added new black arms/legs/torso rig
+> added new white arms/legs rig
+update v12
+! updated to patchma v44 (v45 bc v44 had a bug with fling)
+! updated our hidden scripts
+^ changed so their no longer hidden
+? fix small rig problems
+> added more stuff to promote our discord server bc why not?
+=======================================================================================================================================
+	Dev Msgs [logs from a dc server to the github]
+>>> very sleepy
+>>> if you want your animations in HackerMan Hub just put a msg on our discord
+---------------------------------------------------------------------------------------------------------------------------------------
+	Dev Notes
+very dumb fr fr anywho have fun in patchma v44
+=======================================================================================================================================
+		comming soon
+more modded star glitcher from shade hub modes [done]
+better ui [working on but is very hard to do]
+hat drop mode [may not add]
+200 under map mode [may not add]
+hating my life less fr fr [done]
+more rigs when i care lol or when someone ask [done]
+---------------------------------------------------------------------------------------------------------------------------------------
+more hubs
+more aniamtions
+showing all the id's in the console
+more fixed versions of animations with offsale/del items
+some other things
+
+      :::    :::           :::        ::::::::       :::    :::       ::::::::::       :::::::::         :::   :::           :::        ::::    :::           :::    :::      :::    :::       ::::::::: 
+     :+:    :+:         :+: :+:     :+:    :+:      :+:   :+:        :+:              :+:    :+:       :+:+: :+:+:        :+: :+:      :+:+:   :+:           :+:    :+:      :+:    :+:       :+:    :+: 
+    +:+    +:+        +:+   +:+    +:+             +:+  +:+         +:+              +:+    +:+      +:+ +:+:+ +:+      +:+   +:+     :+:+:+  +:+           +:+    +:+      +:+    +:+       +:+    +:+  
+   +#++:++#++       +#++:++#++:   +#+             +#++:++          +#++:++#         +#++:++#:       +#+  +:+  +#+     +#++:++#++:    +#+ +:+ +#+           +#++:++#++      +#+    +:+       +#++:++#+    
+  +#+    +#+       +#+     +#+   +#+             +#+  +#+         +#+              +#+    +#+      +#+       +#+     +#+     +#+    +#+  +#+#+#           +#+    +#+      +#+    +#+       +#+    +#+    
+ #+#    #+#       #+#     #+#   #+#    #+#      #+#   #+#        #+#              #+#    #+#      #+#       #+#     #+#     #+#    #+#   #+#+#           #+#    #+#      #+#    #+#       #+#    #+#     
+###    ###       ###     ###    ########       ###    ###       ##########       ###    ###      ###       ###     ###     ###    ###    ####           ###    ###       ########        #########       
